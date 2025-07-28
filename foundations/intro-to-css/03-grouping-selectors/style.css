@@ -1,0 +1,21 @@
+/*---style.css--*/
+
+.black-button,.yellow-button {
+    font-size: 28px;
+    padding: 10px 20px; /*adjust padding as needed*/
+    border: 2px black; /* remove default border */
+    cursor: pointer; /* Indicate it's clickable */
+    font-family: helvetica, 'Times New Roman', sans-serif; /* Example font */
+}
+
+.black-button {
+    background-color: black;
+    color: white; /* Text color for the black button */
+}
+.yellow-button {
+
+    background-color: yellow;
+    color: black; /* Text color for the yellow button */
+    border: 1px solid black;
+   
+}
