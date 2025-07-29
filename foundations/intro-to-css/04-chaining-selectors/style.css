@@ -1,6 +1,7 @@
-/* Add CSS Styling */
+/
+
 .avatar.proportioned {
-    width: 300px;/* This sets the height for elements with the class 'avatar proportioned and original proportioned */
+    width: 300px;
     maintain-height: auto;
 
 }
